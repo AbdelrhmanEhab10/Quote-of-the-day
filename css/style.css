@@ -1,0 +1,23 @@
+.button .btn
+{
+    background-color: blue;
+    font-size: 20px;
+    padding: 10px 30px !important;
+    transition: all .3s;
+}
+.button .btn:hover
+{
+    background-color: green;
+
+}
+.dayQuote p
+{
+    font-size: 20px;
+
+}
+
+body
+{
+    display: flex;
+    justify-items: center;
+}
